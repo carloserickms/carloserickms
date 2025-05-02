@@ -6,7 +6,12 @@
 
 - 🔭 Atualmente trabalhando com desenvolvimento web  
 - 💻 Apaixonado por backend e tecnologias  
-- 📫 Como me encontrar: **carloserickme71@gmail.com**
+- 📫 Email para contato: **carloserickme71@gmail.com**
+
+### 🌎 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-erick/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-333?style=flat-square&logo=vercel&logoColor=white)](https://**SEUSITE**)
 
 ---
 
@@ -36,10 +41,3 @@
 ![Carlos Erick GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloserickms&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloserickms&layout=compact&theme=radical)
-
----
-
-### 🌎 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/**SEUPERFIL**)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-333?style=flat-square&logo=vercel&logoColor=white)](https://**SEUSITE**)
